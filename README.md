@@ -54,7 +54,7 @@
 
 ## 🏆 Top Languages
 
-<p align="center">
+<p >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhay738805&theme=tokyonight" />
 
 </p>
