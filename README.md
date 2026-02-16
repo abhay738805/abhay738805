@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
 - 💻 Currently building MERN applications  
 - 🌱 Learning Backend Scaling & System Design  
@@ -12,20 +12,21 @@
 
 
 ---
-
-## 🌐 Connect With Me
+## 🌐 Socials
 
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abhay-nath-mishra-2882b4253
+  <a href="https://linkedin.com/in/www.linkedin.com/in/abhay-nath-mishra-2882b4253" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+  <a href="https://wa.me/917388056141" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,mysql,python,react,nodejs,express,mongodb,git,github,html,css" />
